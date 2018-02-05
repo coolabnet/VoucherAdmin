@@ -1,3 +1,4 @@
+#!/bin/bash
 scp root@thisnode.info:/etc/nodogsplash/vale/db.csv ./
 
 echo " ___________________________________________________ "
